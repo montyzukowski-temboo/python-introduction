@@ -1,3 +1,4 @@
+# Shortcut https://goo.gl/SJgx5M
 ## Python resources
 
 ### Access APIs with Temboo
