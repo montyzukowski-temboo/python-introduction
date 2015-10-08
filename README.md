@@ -60,3 +60,5 @@ SciPy is a Python-based ecosystem of open-source software for mathematics, scien
 ### build utility written in Python
 [https://github.com/parrt/bild]()
 
+### Writing a fuzzy receipt parser in Python
+[http://tech.trivago.com/2015/10/06/python_receipt_parser/]()
